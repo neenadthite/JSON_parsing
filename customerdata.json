@@ -1,0 +1,18 @@
+
+{
+    "Title": "DispatchList",
+    "records": [
+        {
+            "FirstName": "John",
+            "CustomerID": "ABC123"
+        },
+        {
+            "FirstName": "Robert",
+            "CustomerID": "DEF567"
+        },
+        {
+            "FirstName": "Patrick",
+            "CustomerID": "IJK109"
+        }
+    ]
+}
